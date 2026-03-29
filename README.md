@@ -1,6 +1,6 @@
 # 👻 Spectre - TikTok Video Downloader
 
-![Spectre Web Interface](https://via.placeholder.com/800x450.png?text=Spectre+Interface+Preview) > **Premium quality. No watermark. Zero Ads.**
+**Premium quality. No watermark. Zero Ads.**
 
 Spectre adalah aplikasi web pengunduh video dan audio TikTok yang dirancang dengan fokus pada pengalaman pengguna. Menawarkan antarmuka *dark mode* yang minimalis dan elegan, Spectre memungkinkan pengguna untuk mengunduh konten favorit mereka (MP4 maupun MP3) secara gratis tanpa gangguan iklan sama sekali.
 
