@@ -6,13 +6,13 @@ Spectre adalah aplikasi web pengunduh video dan audio TikTok yang dirancang deng
 
 ---
 
-## ✨ Fitur Utama (Key Features)
+##  Fitur Utama (Key Features)
 
-* **🚫 Tanpa Iklan (Ad-Free):** Pengalaman mengunduh yang bersih dan tidak mengganggu.
-* **💧 Tanpa Watermark:** Unduh video MP4 dalam kualitas aslinya tanpa logo TikTok.
-* **🎵 Ekstraksi Audio (MP3):** Konversi dan unduh suara/musik dari video langsung menjadi format MP3.
-* **⚡ Cepat & Responsif:** Antarmuka pengguna yang dioptimalkan untuk berbagai perangkat (PC maupun Mobile).
-* **💸 100% Gratis:** Seluruh fitur premium dapat diakses tanpa biaya.
+* ** Tanpa Iklan (Ad-Free):** Pengalaman mengunduh yang bersih dan tidak mengganggu.
+* ** Tanpa Watermark:** Unduh video MP4 dalam kualitas aslinya tanpa logo TikTok.
+* ** Ekstraksi Audio (MP3):** Konversi dan unduh suara/musik dari video langsung menjadi format MP3.
+* ** Cepat & Responsif:** Antarmuka pengguna yang dioptimalkan untuk berbagai perangkat (PC maupun Mobile).
+* ** 100% Gratis:** Seluruh fitur premium dapat diakses tanpa biaya.
 
 ---
 
